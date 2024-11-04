@@ -4,5 +4,10 @@ title: "Contact"
 permalink: /contact/
 author_profile: true
 ---
-You could find me at:
-Email: yiwen.liu@tum.de  yiwenliu0507@gmail.com
+
+## Contact Information
+
+You can reach me via:
+
+- **Email (University)**: [yiwen.liu@tum.de](mailto:yiwen.liu@tum.de)
+- **Email (Personal)**: [yiwenliu0507@gmail.com](mailto:yiwenliu0507@gmail.com)
