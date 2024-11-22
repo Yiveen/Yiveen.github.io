@@ -60,10 +60,10 @@ author_profile: true
 The following includes coursework and practical projects.
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px; flex-wrap: wrap;">
-  <img src="images/method.pdf" alt="Project Thumbnail" style="width: 250px; max-width: 30%; height: auto; margin-right: 20px; min-width: 150px;"/>
+  <img src="images/main_result.png" alt="Project Thumbnail" style="width: 250px; max-width: 30%; height: auto; margin-right: 20px; min-width: 150px;"/>
 
   <div style="line-height: 1.4; font-size: 1em; max-width: 65%;">
-    <h3 style="margin: 0;"></h3>
+    <h3 style="margin: 0;">Does Feasibility Matter? Understanding In-and Out-of-Distribution Data Impact</h3>
     <p style="margin: 5px 0;"> Master Thesis in <em><a href="https://www.eml-munich.de/">EML Munich Group</a></em> supervised by <em><a href="https://www.eml-munich.de/people/zeynep-akata">Prof. Zeynep Akata</a></em> </p>
     <p style="margin: 5px 0;">2024.05-2024.11</p>
     <p style="margin: 5px 0;"><a href="pdfs/Master_Thesis_compressed.pdf">[PDF]</a></p>
