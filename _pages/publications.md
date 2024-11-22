@@ -17,6 +17,17 @@ author_profile: true
   </div>
 </div>
 
+
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px; flex-wrap: wrap;">
+  <img src="images/teaser.png" alt="Project Thumbnail" style="width: 250px; max-width: 30%; height: auto; margin-right: 20px; min-width: 150px;"/>
+
+  <div style="line-height: 1.4; font-size: 1em; max-width: 65%;">
+    <h3 style="margin: 0;">Does Feasibility Matter? Understanding In- and Out-of-Distribution Data Impact in Synthetic Training Datasets for Classification </h3>
+    <p style="margin: 5px 0;"> <b>Yiwen Liu</b>, Jessica Bader, Jae Myung Kim </p>
+    <p style="margin: 5px 0;"><em>Under Review</em></p>
+  </div>
+</div>
+
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px; flex-wrap: wrap;">
   <img src="images/paper2.png" alt="Project Thumbnail" style="width: 250px; max-width: 30%; height: auto; margin-right: 20px; min-width: 150px;"/>
 
@@ -27,9 +38,6 @@ author_profile: true
     <p style="margin: 5px 0;"><a href="https://arxiv.org/pdf/2409.08926">[PDF]</a> <a href="https://sites.google.com/view/cleardepth/">[Homepage]</a></p>
   </div>
 </div>
-
-
-
 
 
 
@@ -50,6 +58,17 @@ author_profile: true
 
 ## Selected Projects
 The following includes coursework and practical projects.
+
+<div style="display: flex; align-items: flex-start; margin-bottom: 20px; flex-wrap: wrap;">
+  <img src="images/method.pdf" alt="Project Thumbnail" style="width: 250px; max-width: 30%; height: auto; margin-right: 20px; min-width: 150px;"/>
+
+  <div style="line-height: 1.4; font-size: 1em; max-width: 65%;">
+    <h3 style="margin: 0;"></h3>
+    <p style="margin: 5px 0;"> Master Thesis in <em><a href="https://www.eml-munich.de/">EML Munich Group</a></em> supervised by <em><a href="https://www.eml-munich.de/people/zeynep-akata">Prof. Zeynep Akata</a></em> </p>
+    <p style="margin: 5px 0;">2024.05-2024.11</p>
+    <p style="margin: 5px 0;"><a href="pdfs/Master_Thesis_compressed.pdf">[PDF]</a></p>
+  </div>
+</div>
 
 
 
