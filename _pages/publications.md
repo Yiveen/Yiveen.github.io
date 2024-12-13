@@ -24,7 +24,7 @@ author_profile: true
   <div style="line-height: 1.4; font-size: 1em; max-width: 65%;">
     <h3 style="margin: 0;">Does Feasibility Matter? Understanding In- and Out-of-Distribution Data Impact in Synthetic Training Datasets for Classification </h3>
     <p style="margin: 5px 0;"> <b>Yiwen Liu</b>, Jessica Bader, Jae Myung Kim </p>
-    <p style="margin: 5px 0;"><em>Under Review</em></p>
+    <p style="margin: 5px 0;"><em> <a href="pdfs/ThesisPaper.pdf">[PDF]</a> Under Review</em></p>
   </div>
 </div>
 
