@@ -22,11 +22,11 @@ author_profile: true
   <img src="images/teaser.png" alt="Project Thumbnail" style="width: 250px; max-width: 30%; height: auto; margin-right: 20px; min-width: 150px;"/>
 
   <div style="line-height: 1.4; font-size: 1em; max-width: 65%;">
-    <h3 style="margin: 0;">Does Feasibility Matter? Understanding In- and Out-of-Distribution Data Impact in Synthetic Training Datasets for Classification </h3>
+    <h3 style="margin: 0;">Does Feasibility Matter? Understanding the Impact of Feasibility on Synthetic Training Data </h3>
     <p style="margin: 5px 0;"> <b>Yiwen Liu</b>, Jessica Bader, Jae Myung Kim </p>
-    <p style="margin: 5px 0;"><em>Under Review</em></p>
-    <p style="margin: 5px 0;"> <a href="pdfs/ThesisPaper.pdf">[PDF]</a> </p>
-  </div>
+    <p style="margin: 5px 0;"><em>CVPRW SynData4CV & FGVC12</em></p>
+    <p style="margin: 5px 0;"> <a href="https://arxiv.org/pdf/2505.10551">[Paper] <a href="https://github.com/Yiveen/SyntheticDataFeasibility">[Code]</a></p>
+  </div>  
 </div>
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 20px; flex-wrap: wrap;">
@@ -53,6 +53,7 @@ author_profile: true
     <h3 style="margin: 0;">StereoAnything: Advanced Zero-Shot Stereo Imaging for Multi-Finger Grasp Detection with Transparent Objects</h3>
     <p style="margin: 5px 0;"> Kaixin Bai, Lei Zhang†, <b>Yiwen Liu</b>, Zhaopeng Chen, Jianwei Zhang </p>
     <p style="margin: 5px 0;"><em>IEEE Transactions on Cybernetics, Under Review</em></p>
+    <p style="margin: 5px 0;"><a href="https://d197for5662m48.cloudfront.net/documents/publicationstatus/256652/preprint_pdf/8ad986002b4280e0e40d019b71802be3.pdf">[PDF]</a> <a href="https://sites.google.com/view/stereoanything">[Homepage]</a></p>
   </div>
 </div>
 
