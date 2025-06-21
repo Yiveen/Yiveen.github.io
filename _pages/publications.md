@@ -24,7 +24,7 @@ author_profile: true
   <div style="line-height: 1.4; font-size: 1em; max-width: 65%;">
     <h3 style="margin: 0;">Does Feasibility Matter? Understanding the Impact of Feasibility on Synthetic Training Data </h3>
     <p style="margin: 5px 0;"> <b>Yiwen Liu</b>, Jessica Bader, Jae Myung Kim </p>
-    <p style="margin: 5px 0;"><em>CVPRW SynData4CV & FGVC12</em></p>
+    <p style="margin: 5px 0;"><em>CVPRW SynData4CV \& FGVC12</em></p>
     <p style="margin: 5px 0;"> <a href="https://arxiv.org/pdf/2505.10551">[Paper] <a href="https://github.com/Yiveen/SyntheticDataFeasibility">[Code]</a></p>
   </div>  
 </div>
