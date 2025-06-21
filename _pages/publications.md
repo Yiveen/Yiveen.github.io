@@ -12,7 +12,7 @@ author_profile: true
   <div style="line-height: 1.4; font-size: 1em; max-width: 65%;">
     <h3 style="margin: 0;">Automated Multi-View Planning for Endovascular Aneurysm Repair Procedures</h3>
     <p style="margin: 5px 0;"> Baochang Zhang*, <b>Yiwen Liu*</b>, Shuting Liu, Heribert Schunkert, Reza Ghotbi, and Nassir Navab </p>
-    <p style="margin: 5px 0;"><em>MICCAI 2024 CLIP</em></p>
+    <p style="margin: 5px 0;"><em>MICCAI 2024 Workshop CLIP</em></p>
     <p style="margin: 5px 0;"><a href="pdfs/clip_paper.pdf">[PDF]</a></p>
   </div>
 </div>
@@ -24,8 +24,8 @@ author_profile: true
   <div style="line-height: 1.4; font-size: 1em; max-width: 65%;">
     <h3 style="margin: 0;">Does Feasibility Matter? Understanding the Impact of Feasibility on Synthetic Training Data </h3>
     <p style="margin: 5px 0;"> <b>Yiwen Liu</b>, Jessica Bader, Jae Myung Kim </p>
-    <p style="margin: 5px 0;"><em>CVPRW SynData4CV & FGVC12</em></p>
-    <p style="margin: 5px 0;"><a href="https://arxiv.org/pdf/2505.10551">[Paper]</a> <a href="https://github.com/Yiveen/SyntheticDataFeasibility">[Code]</a></p>
+    <p style="margin: 5px 0;"><em>CVPR 2025 Workshop SynData4CV & FGVC12</em></p>
+    <p style="margin: 5px 0;"><a href="https://arxiv.org/pdf/2505.10551">[PDF]</a> <a href="https://github.com/Yiveen/SyntheticDataFeasibility">[Code]</a></p>
   </div>  
 </div>
 
